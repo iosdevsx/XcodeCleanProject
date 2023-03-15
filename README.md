@@ -4,5 +4,5 @@
 
 Clone, then:
 ```bash
- python3 make.py name="your_project_name"
+ python3 make.py name=your_project_name
 ```
